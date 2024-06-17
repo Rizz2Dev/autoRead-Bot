@@ -1,0 +1,20 @@
+{
+  "name": "AutoRead-Bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Rizz2Dev",
+  "license": "ISC",
+  "description": "WhatsApp bot for read your whatsapp messsage",
+  "dependencies": {
+    "@hapi/boom": "^10.0.1",
+    "@whiskeysockets/baileys": "^6.7.5",
+    "cfonts": "^3.3.0",
+    "fs": "^0.0.1-security",
+    "pino": "^9.2.0",
+    "readline": "^1.3.0"
+  }
+}
